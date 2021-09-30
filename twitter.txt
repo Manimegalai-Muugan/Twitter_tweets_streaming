@@ -1,4 +1,4 @@
-consumerKey F0n4BeCH6LsgN8ZMDpyCV5YGf
-consumerSecret pKtlnshAbFkFkHCUXKczUceNFViQmK1pNGcYKlAsG1BOgEbZFn
-accessToken 1441335997061500930-MqcKgw4irVBouewC1oPkqzCttG69n7
-accessTokenSecret lFxWbDTYJKfMvhfajaXWN75WBa525IaSf3C7SLuR65OWD
+consumerKey "consumerKey"
+consumerSecret "consumerSecret"
+accessToken "accessToken"
+accessTokenSecret "accesstokensecret"
